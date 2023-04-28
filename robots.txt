@@ -3,3 +3,4 @@ Sitemap: https://xander-rudolph.github.io/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
+Disallow: /r/
